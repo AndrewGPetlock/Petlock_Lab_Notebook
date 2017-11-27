@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a sophomore Marine Biology major. I enjoy world travel, SCUBA diving, tennis, and photography.
+I'm a Marine Biology major at the University of Rhode Island. I enjoy world travel, SCUBA diving, tennis, and photography.
 
 ### More Information
 
-wwww.tidepools4life.com
+[wwww.tidepools4life.com](wwww.tidepools4life.com)
 
 ### Contact me
 
