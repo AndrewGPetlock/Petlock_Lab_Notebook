@@ -7,14 +7,14 @@ tags:
 ---
 # The following mini protocols allowed me to craft a final protocol for using ImageJ to measure coral eggs
 
-*# Set scale for each picture (in ImageJ)
+***Set scale for each picture (in ImageJ)***
 		* Find scale in bottom right corner
 		* Use line tool and trace the scale
 		* Go to top menu
 			* -> analyze -> set scale...
 		* Set scale to desired number
 		
-*# ImageJ (general)
+***ImageJ (general)***
 		* file -> open or open next; select image
 		* stamp each egg;
 			* text box -> type number
