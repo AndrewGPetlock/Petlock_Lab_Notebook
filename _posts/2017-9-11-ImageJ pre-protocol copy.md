@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coral egg size protocol pre-work
+title: M. capitata egg size protocol pre-work
 date: '2017-9-11'
 categories: Protocols
 tags: 
