@@ -2,7 +2,7 @@
 layout: post
 title: Raw data for counting M.capitata embryos for percents
 date: '2017-9-27'
-categories: Raw Data
+categories: Data
 tags: 
 ---
 The following is raw data used to calculate percentages for the various lifestages of M.capitata 
