@@ -5,7 +5,7 @@ date: '2017-10-2'
 categories: Data
 tags: 
 ---
-The following is raw data used to calculate percentages for the various lifestages of M.capitata 
+The following is raw data used to calculate percentages for the various lifestages of M.capitata collected on 10/2/17
 
 
 | Tube.Number   | Date          | Time.stamp  | Picture.number | life.stage.1  | life.stage.2  | life.stage.4 | life.stage.8 | life.stage.8+ |
