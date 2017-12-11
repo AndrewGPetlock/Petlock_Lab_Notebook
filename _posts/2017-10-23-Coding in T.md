@@ -178,14 +178,14 @@ subset(planets.df subset = rings)
 
 ie.,
 
-> a <-- c(100, 10, 1000)
-> order a
-[1] 2 1 3 
+" > a <-- c(100, 10, 1000)
+  > order a
+ [1] 2 1 3 "
 
 ie., 
 
-> a [order (a)]
-[1] 10 100 1000     (reshuffles data)
+" > a [order (a)]
+ [1] 10 100 1000 "    (reshuffles data)
 
 ie.,
 
