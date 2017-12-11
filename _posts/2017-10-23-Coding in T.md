@@ -50,12 +50,12 @@ selection_vector
 
 # logical comparison operators 
 
-* < = less than
-* >= greater than
-* <= less than / equal to
-* >= greater than / equal too
+* "<=" less than
+* ">=" greater than
+* "<=" less than / equal to
+* ">=" greater than / equal too
 * "==" equal  to each other
-* != not equal to each other
+* "!=" not equal to each other
 
 ie., find profits (positive values) from different days
 
