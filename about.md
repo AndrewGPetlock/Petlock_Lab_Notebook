@@ -14,7 +14,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 [andrew_petlock@my.uri.edu](mailto:andrew_petlock@my.uri.edu)
 
-<hr>
+
 
 &nbsp;
 <center> 
