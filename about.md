@@ -18,15 +18,20 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 
 
-<center>
 
-## _Andrew G. Petlock_ 
-### Undergraduate Researcher
-### Department of Biological Sciences
-### 50 Lower College Rd, Unit 1356
-### Kingston, RI 02881 
 
-</center>
+<center> ## _Andrew G. Petlock_ </center>
+
+<center>  ### Undergraduate Researcher </center>
+
+<center> ### Department of Biological Sciences </center>
+
+<center> ### 50 Lower College Rd, Unit 1356 </center>
+
+<center> ### Kingston, RI 02881 </center>
+
+
+
 
 &nbsp;
 
@@ -46,7 +51,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 ### Education
 
 | Date   | Position | Affiliation | GPA |
-|--------|----------|-------------|-----|
+|--------|--------------|---------------------|--------|
 | 2016 - Present | B.S. in Marine Biology | University of Rhode Island, Kingston | 3.67 / 4.0 |
 | 2012 - 2016 | High School Diploma | Algonquin Regional High School, Northborough MA | 4.80 / 5.0 |
 
@@ -79,7 +84,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 &nbsp;
 * Dean’s List: Fall 2016, Spring 2017, Fall 2017
 * Centennial Scholarship: September 2016 - present
-*  Honors Program: September 2016 - present
+* Honors Program: September 2016 - present
 &nbsp;
 &nbsp;
 ###### Algonquin Regional High School:
@@ -101,7 +106,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 
 | Time   | Position | Affiliation | Accomplished |
-|--------|----------|-------------|--------------|
+|--------|----------------|-------------------|-----------------------|
 | July – August 2017 | Ecology Director | BSA Camp Resolute, Bolton, MA | Ran the Ecology Center, including maintenance of animal terrariums and updating of class records & supply inventories. Taught Boy Scout merit badges in Environmental Science, Chemistry, Mammal and Insect Study to scouts ages 11-17. Greeted camp visitors, answered questions, and oversaw camp sign-in sheets. Also assisted with camp waterfront operations, to ensure the safety of all swimmers. |
 | March - August 2016 | Cashier | Rocky’s Ace Hardware, Northborough, MA  | Conducted monetary transactions (purchases & returns), trained new employees, greeted and assisted customers. Worked the sales floor - stocking and re-stocking, cut new keys, and filled propane tanks. | 
 
