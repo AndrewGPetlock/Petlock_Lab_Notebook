@@ -59,16 +59,16 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 &nbsp;
 ##### University of Rhode Island:
-&nbsp;
+
 * Completed coursework includes: Ecology, Inorganic Chemistry and Lab, Calculus I, Topics in Marine Biology, Marine Biology, Marine Ecology and Lab, Organic Chemistry I, Oceanography, Microbiology, Intro to Statistics, Off Campus Study – Undergraduate Winter in Indonesia
 &nbsp;
 * Current coursework includes: Organic Chemistry II, Organic Chemistry Lab, Honors Intro Biochemistry, Risking our Reefs, Independent Biological Research
 
-&nbsp;
+
 &nbsp;
 
 ##### Algonquin Regional High School:
-&nbsp;
+
 * Coursework included: AP Biology, Honors Biotechnology, Independent Study: Biotechnology II, and self-study for AP Environmental Science.
 * Tropical Research & Education Center (TREC), San Pedro Ambergris Caye, Belize (Nov 2015) - One-week residential program for small group organized by AIO (see below) to coral reef educational center with lectures and field experience. 
 * Acadia Institute of Oceanography (AIO) (Summer 2011, 2012, 2014) - Two-week residential program with lectures and field experience in physical, chemical, and biological oceanography. 
