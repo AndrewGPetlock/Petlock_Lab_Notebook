@@ -29,7 +29,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 &nbsp;
 
-###Positions Held
+### Positions Held
 
 | Time   | Position | Affiliation | Accomplished |
 |--------|----------|-------------|
@@ -40,7 +40,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 &nbsp;
 &nbsp;
 
-###Education
+### Education
 
 | Date   | Position | Affiliation | GPA |
 |--------|----------|-------------|-----|
@@ -48,7 +48,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 | 2012 - 2016 | High School Diploma | Algonquin Regional High School, Northborough MA | 4.80 / 5.0 |
 
 &nbsp;
-#####University of Rhode Island:
+##### University of Rhode Island:
 &nbsp;
 * Completed coursework includes: Ecology, Inorganic Chemistry and Lab, Calculus I, Topics in Marine Biology, Marine Biology, Marine Ecology and Lab, Organic Chemistry I, Oceanography, Microbiology, Intro to Statistics, Off Campus Study – Undergraduate Winter in Indonesia
 &nbsp;
@@ -57,7 +57,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 &nbsp;
 &nbsp;
 
-#####Algonquin Regional High School:
+##### Algonquin Regional High School:
 &nbsp;
 * Coursework included: AP Biology, Honors Biotechnology, Independent Study: Biotechnology II, and self-study for AP Environmental Science.
 * Tropical Research & Education Center (TREC), San Pedro Ambergris Caye, Belize (Nov 2015) - One-week residential program for small group organized by AIO (see below) to coral reef educational center with lectures and field experience. 
@@ -72,14 +72,14 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 ### Awards and Honors
 
-######URI:
+###### URI:
 &nbsp;
 * Dean’s List: Fall 2016, Spring 2017, Fall 2017
 * Centennial Scholarship: September 2016 - present
 *  Honors Program: September 2016 - present
 &nbsp;
 &nbsp;
-######Algonquin Regional High School:
+###### Algonquin Regional High School:
 &nbsp;
 * AP Scholar with Distinction: July 2016
 * AP Scholar: July 2015
@@ -129,7 +129,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 ### Other Skills
 
-######Field and Lab Techniques 
+###### Field and Lab Techniques 
 * rocky shore transects
 * beach profiles
 * habitat analysis
@@ -145,7 +145,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 
 
-######Computer
+###### Computer
 * MS Word, Excel, & PowerPoint
 * HTML & Web design
 * Python
@@ -156,7 +156,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 
 
-######Digital Photography
+###### Digital Photography
 
 
 
