@@ -83,14 +83,14 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 ### Awards and Honors
 
 ###### URI:
-&nbsp;
+
 * Dean’s List: Fall 2016, Spring 2017, Fall 2017
 * Centennial Scholarship: September 2016 - present
 * Honors Program: September 2016 - present
 &nbsp;
 &nbsp;
 ###### Algonquin Regional High School:
-&nbsp;
+
 * AP Scholar with Distinction: July 2016
 * AP Scholar: July 2015
 * Sociedad Honoraria Hispanica: October 2015
