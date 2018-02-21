@@ -18,12 +18,15 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 
 
-## _Andrew G. Petlock_
+<center>
 
+## _Andrew G. Petlock_ 
 ### Undergraduate Researcher
 ### Department of Biological Sciences
 ### 50 Lower College Rd, Unit 1356
-### Kingston, RI 02881
+### Kingston, RI 02881 
+
+</center>
 
 &nbsp;
 
