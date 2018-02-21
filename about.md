@@ -22,6 +22,11 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 &nbsp;
 
+# <center> C.V. </center>
+&nbsp;
+
+&nbsp;
+
 ## _<center> Andrew G. Petlock </center>_
 
 ### <center>   Undergraduate Researcher </center>
