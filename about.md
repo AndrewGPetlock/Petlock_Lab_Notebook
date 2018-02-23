@@ -33,6 +33,7 @@ If you have any questions about my research, please contact me at:
 
  <center>   Undergraduate Researcher </center>
  <center>  Department of Biological Sciences </center>
+  <center> University of Rhode Island </center>
  <center>  50 Lower College Rd, Unit 1356 </center>
  <center>  Kingston, RI 02881 </center>
 
