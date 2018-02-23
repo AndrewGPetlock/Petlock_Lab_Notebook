@@ -12,6 +12,8 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 ### Contact me
 
+If you have any questions about my research, please contact me at:
+
 [andrew_petlock@my.uri.edu](mailto:andrew_petlock@my.uri.edu)
 
 
@@ -22,20 +24,17 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 &nbsp;
 
-# <center> C.V. </center>
+## <center> Curriculum Vitae </center>
 &nbsp;
 
 &nbsp;
 
-## _<center> Andrew G. Petlock </center>_
+### _<center> Andrew G. Petlock </center>_
 
-### <center>   Undergraduate Researcher </center>
-
-### <center>  Department of Biological Sciences </center>
-
-### <center>  50 Lower College Rd, Unit 1356 </center>
-
-### <center>  Kingston, RI 02881 </center>
+ <center>   Undergraduate Researcher </center>
+ <center>  Department of Biological Sciences </center>
+ <center>  50 Lower College Rd, Unit 1356 </center>
+ <center>  Kingston, RI 02881 </center>
 
 
 
@@ -67,7 +66,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 * Completed coursework includes: Ecology, Inorganic Chemistry and Lab, Calculus I, Topics in Marine Biology, Marine Biology, Marine Ecology and Lab, Organic Chemistry I, Oceanography, Microbiology, Intro to Statistics, Off Campus Study – Undergraduate Winter in Indonesia
 &nbsp;
-* Current coursework includes: Organic Chemistry II, Organic Chemistry Lab, Honors Intro Biochemistry, Risking our Reefs, Independent Biological Research
+* Current coursework includes: Organic Chemistry II, Organic Chemistry Lab, Honors Intro Biochemistry, Risking our Reefs, Independent Biological Research, History of Rock and Roll
 
 
 &nbsp;
@@ -129,10 +128,11 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 
 &nbsp;
 
-### Volunteer Service
+### Volunteer Service / Public Outreach
 
 * Save the Bay (Rhode Island) - Beach cleanups 
 * New England Aquarium’s live blue Ambassadors – Beach clean ups & removal of invasive plants. 
+*  The Putnam Lab and The Graduate School of Oceanography (URI) – Spoke at the GSO open house about lab activites/projects and the local coral species in New England. 
 
 &nbsp;
 
@@ -166,7 +166,7 @@ I'm an undergraduate Marine Biology major at the University of Rhode Island, cur
 * Python
 * R
 * GitHub
-* Markdown
+* Markdown PAd
 
 
 
