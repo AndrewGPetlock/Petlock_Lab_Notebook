@@ -146,17 +146,17 @@ If you have any questions about my research, please contact me at:
 ### Other Skills
 
 ###### Field and Lab Techniques 
-* rocky shore transects
-* beach profiles
-* habitat analysis
-* algae and invertebrate ID
-* water quality testing
-* aquarium maintenance
-* chromatography (gas & paper)
+* Rocky shore transects
+* Beach profiles
+* Habitat analysis
+* Algae and invertebrate ID
+* Water quality testing
+* Aquarium maintenance
+* Chromatography (gas & paper)
 * Agarose gel electrophoresis
-* protein assays
+* Protein assays
 * PCR
-* restriction enzyme cleavage
+* Restriction enzyme cleavage
 * Statistical Analysis 
 
 
@@ -167,7 +167,7 @@ If you have any questions about my research, please contact me at:
 * Python
 * R
 * GitHub
-* Markdown PAd
+* Markdown Pad
 
 
 
