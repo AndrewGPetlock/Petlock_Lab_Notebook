@@ -20,7 +20,7 @@ If you have any questions about my research, please contact me at:
 
 
 
-&nbsp;
+
 
 &nbsp;
 
@@ -31,7 +31,7 @@ If you have any questions about my research, please contact me at:
 
 ### _<center> Andrew G. Petlock </center>_
 
- <center>   Undergraduate Researcher </center>
+ <center>  Undergraduate Researcher </center>
  <center>  Department of Biological Sciences </center>
   <center> University of Rhode Island </center>
  <center>  50 Lower College Rd, Unit 1356 </center>
