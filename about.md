@@ -176,7 +176,7 @@ If you have any questions about my research, please contact me at:
 
 ###### Digital Photography
 
-* GoPro
+* GoPro Hero 5
 * Nikon D150
 * Cannon D20
 
