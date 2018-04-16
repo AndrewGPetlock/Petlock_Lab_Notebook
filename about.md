@@ -134,7 +134,7 @@ If you have any questions about my research, please contact me at:
 
 * Save the Bay (Rhode Island) - Beach cleanups 
 * New England Aquarium’s live blue Ambassadors – Beach clean ups & removal of invasive plants. 
-*  The Putnam Lab and The Graduate School of Oceanography (URI) – Spoke at the GSO open house about lab activites/projects and the local coral species in New England. 
+*  The Putnam Lab and The Graduate School of Oceanography (URI) – Spoke at the GSO open house about lab activities/projects and the local coral species in New England. 
 
 &nbsp;
 
@@ -168,7 +168,7 @@ If you have any questions about my research, please contact me at:
 * HTML & Web design
 * Python (basic)
 * R (basic)
-* GitHub; [https://github.com/AndrewGPetlock/Petlock_Lab_Notebook] (https://github.com/AndrewGPetlock/Petlock_Lab_Notebook)
+* GitHub; [https://github.com/AndrewGPetlock/Petlock_Lab_Notebook]
 * Markdown Pad
 
 
