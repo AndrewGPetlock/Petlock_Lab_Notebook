@@ -51,5 +51,5 @@ Contents
 	
 3. <a name="Diagram"></a> **Diagram**
 
-![pH_screen](https://github.com/AndrewGPetlock/Petlock_Lab_Notebook/images/pH_screen)
+![pH_screen](https://github.com/AndrewGPetlock/Petlock_Lab_Notebook/images/pH_screen.png)
 
