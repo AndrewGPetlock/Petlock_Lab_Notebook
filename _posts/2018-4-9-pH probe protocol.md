@@ -52,7 +52,3 @@ Contents
 3. <a name="Diagram"></a> **Diagram**
 
 ![pH probe consel](https://andrewgpetlock.github.io/images/pH_screen.png)
-
-
-
-![sea star](https://www.aqua.org/explore/animals/sea-stars)
