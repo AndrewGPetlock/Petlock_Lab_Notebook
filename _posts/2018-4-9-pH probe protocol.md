@@ -11,6 +11,7 @@ Contents
 
 - [**Setup**](#Setup) 
 - [**Calibration**](#Calibration) 
+- [**Diagram**](#Diagram)
 
 
 1. <a name="Setup"></a> **Setup**
@@ -47,3 +48,8 @@ Contents
 	21. With calibrated pH probe, measure desired solution; the measured value will be displayed on the measurement screen / wait until measurement stops fluctuating for 10 seconds
 	22. Rinse electrode in freshwater; do not touch the glass bulb
 	23. Place probe back into vial with potassium chloride solution
+	
+3. <a name="Diagram"></a> **Diagram**
+
+![pH_screen](https://github.com/AndrewGPetlock/Petlock_Lab_Notebook/images/pH_screen)
+
