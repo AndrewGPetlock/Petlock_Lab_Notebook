@@ -49,6 +49,8 @@ Contents
 	22. Rinse electrode in freshwater; do not touch the glass bulb
 	23. Place probe back into vial with potassium chloride solution
 	
+	&nbsp;
+	
 3. <a name="Diagram"></a> **Diagram**
 
 ![pH probe consel](https://andrewgpetlock.github.io/images/pH_screen.png)
